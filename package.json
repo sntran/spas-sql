@@ -1,0 +1,27 @@
+{
+  "name": "spas-sql",
+  "version": "0.1.0",
+  "description": "SQL Database Connector for SPAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sntran/spas-sql.git"
+  },
+  "keywords": [
+    "SPAS",
+    "SQL",
+    "MSSQL"
+  ],
+  "author": "Son Tran-Nguyen <son@sntran.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sntran/spas-sql/issues"
+  },
+  "homepage": "https://github.com/sntran/spas-sql",
+  "dependencies": {
+    "mssql": "^2.1.6"
+  }
+}
